@@ -7,7 +7,7 @@ CodeIgniter4 User Guide 日本語訳 プロジェクト
 本リポジトリの目的
 ------------------
 
-日本 CodeIgniter ユーザ会の公式サイトに掲載している日本語訳は次のリポジトリで作成されています。
+日本 CodeIgniter ユーザ会の公式サイトに掲載する予定の CodeIgniter4の日本語訳は次のリポジトリで作成されています。
 
 https://github.com/codeigniter-jp/user_guide_src_ja_4
 
